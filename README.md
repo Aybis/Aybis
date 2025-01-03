@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aybis aka Abdul Muchtar Astria
+- 👋 Hi, I’m @Muchtar aka Abdul Muchtar Astria
 - 👀 I’m interested in React JS Developer and Fronteend
 - 🌱 I’m currently learning Next JS and Typescript
 - 💞️ I’m looking to collaborate on ...
