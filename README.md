@@ -2,7 +2,7 @@
 - 👀 I’m interested in React JS Developer and Fronteend
 - 🌱 I’m currently learning Next JS and Typescript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me https://abdul-muchtar.vercel.app/
+- 📫 How to reach me https://muchtar.dev
 -
 
 <!---
